@@ -5,15 +5,15 @@
     "keywords": ["Random","Anime", "pyrogram", "telegram bot"],
     "env": {
         "TOKEN": {
-            "description": "Your Bot token from @Botfather",
+            "description": "6455724863:AAGwkLmE1mT1ahfOU5hUAXgWHl4lrSe-ZCk",
             "required": true
         },
         "API_ID": {
-            "description": "Your API_ID from https://my.telegram.org/apps",
+            "description": " 25105744",
             "required": true
         },
         "API_HASH": {
-            "description": "Your API_HASH from https://my.telegram.org/apps",
+            "description": "0ca4154111e7b0f99e9929710faa3f25",
             "required": true
         }
     },
