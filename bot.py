@@ -5,7 +5,7 @@ import os
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup  
 from myrogram import notJoin , forceMe
 
-TOKEN = os.environ.get("6768364421:AAFww-6PYNN73-sObXGowwrGSpKGOkHCqn4", "")
+TOKEN = os.environ.get("6513400749:AAFfrC2JmGltLcQJGfO41GKEgu2RlRWHoxs", "")
 
 API_ID = int(os.environ.get("25105744", ))
 
